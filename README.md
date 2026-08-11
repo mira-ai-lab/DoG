@@ -133,4 +133,6 @@ Thanks for their nice contribution.
   year={2025}
 }
 
+We have also released the code of [DP](https://github.com/mira-ai-lab/Deliberation-on-Priors/blob/main/README.md) which is a trustworthy framework for LLMs reasoning on KGs.
+
 
